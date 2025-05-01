@@ -20,5 +20,5 @@ A full stack application for managing team members with React frontend, Node.js/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/dwija-dj/team-blue.git
+git clone https://github.com/dwija-dj/tFSD_CT2.git
 cd team-blue
